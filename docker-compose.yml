@@ -1,6 +1,6 @@
 version: '3.3'
 services:
   backend:
-    image: tanachok/234-deploylab-backend:latest
+    image: wathanyusul09/234-deploylab-backend:latest
     ports:
       - "8085:8080"
